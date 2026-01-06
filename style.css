@@ -7,6 +7,9 @@ background-color: #121212;
 color: #D1D5DB;
 font-family: sans-serif;
 }
+header {
+    text-align: center;
+}
 a {
     color: #FFD700;
     text-decoration: none;
@@ -14,3 +17,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+li {
+    padding: 5px;
+}
+
